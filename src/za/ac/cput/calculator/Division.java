@@ -1,5 +1,10 @@
 package za.ac.cput.calculator;
 
+/*
+    @author Dylan Koevort
+
+ */
+
 public class Division {
 
     public static int integerDivision(int numerator, int denominator) {
